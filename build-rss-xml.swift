@@ -14,7 +14,7 @@ func header () -> [String] {
 
 //——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-let changeLogURL = "https://pierremolinaro.github.io/trans-fer-distribution/gh-pages/release-notes.html"
+let changeLogURL = "https://pierremolinaro.github.io/trans-fer-distribution/docs/release-notes.html"
 
 //——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 //   FOR PRINTING IN COLOR
@@ -310,7 +310,7 @@ releaseNotesHTML +=  "  </body>\n"
 releaseNotesHTML +=  "</html>\n"
 if let releaseNotesData = releaseNotesHTML.data (using: .utf8) {
   do{
-    try releaseNotesData.write (to: scriptURL.appendingPathComponent ("gh-pages/release-notes.html"))
+    try releaseNotesData.write (to: scriptURL.appendingPathComponent ("docs/release-notes.html"))
   }catch let error {
     print (BOLD_RED + "Error \(error) writing release-notes.html file" + ENDC)
     exit (1)
