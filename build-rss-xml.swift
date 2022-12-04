@@ -14,7 +14,7 @@ func header () -> [String] {
 
 //——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-let changeLogURL = "https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/release-notes.html"
+let changeLogURL = "https://pierremolinaro.github.io/trans-fer-distribution/gh-pages/release-notes.html"
 
 //——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 //   FOR PRINTING IN COLOR
