@@ -310,7 +310,7 @@ releaseNotesHTML +=  "  </body>\n"
 releaseNotesHTML +=  "</html>\n"
 if let releaseNotesData = releaseNotesHTML.data (using: .utf8) {
   do{
-    try releaseNotesData.write (to: scriptURL.appendingPathComponent ("release-notes.html"))
+    try releaseNotesData.write (to: scriptURL.appendingPathComponent ("gh-pages/release-notes.html"))
   }catch let error {
     print (BOLD_RED + "Error \(error) writing release-notes.html file" + ENDC)
     exit (1)
