@@ -1,0 +1,18 @@
+{
+  "edSignature" : "C\/RYKoVIO3Kt9NUOIQKvVdQJYA+gwUVmdc95e2OuVmoKvHyqmVD1K4LDmVHKcMHrnrzAhQROim611T0Shkt3Cw==",
+  "length" : "3179435",
+  "bugfixes" : [
+
+  ],
+  "news" : [
+
+  ],
+  "notes" : [
+    "Une mise à jour, pour vérifier que le mécanisme de mise à jour fonctionne correctement"
+  ],
+  "changes" : [
+
+  ],
+  "date" : "2022-12-04T14:52:24Z",
+  "osmin" : "10.15"
+}

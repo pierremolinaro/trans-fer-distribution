@@ -5,6 +5,19 @@
         <description>Most recent changes with links to updates</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.1</title>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 04 Dec 2022 14:52:24 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://pierremolinaro.github.io/trans-fer-distribution/release-notes.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/Trans-Fer-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="C/RYKoVIO3Kt9NUOIQKvVdQJYA+gwUVmdc95e2OuVmoKvHyqmVD1K4LDmVHKcMHrnrzAhQROim611T0Shkt3Cw==" sparkle:version="1.0.1" length="3179435" sparkle:installationType="package"></enclosure>
+            <description><![CDATA[<p>
+              Version minimum macOS : 10.15<br/>
+              <ul>
+                <li><b>Note</b> Une&nbsp;mise&nbsp;&agrave;&nbsp;jour,&nbsp;pour&nbsp;v&eacute;rifier&nbsp;que&nbsp;le&nbsp;m&eacute;canisme&nbsp;de&nbsp;mise&nbsp;&agrave;&nbsp;jour&nbsp;fonctionne&nbsp;correctement</li>
+              </ul>
+            </p>]]></description>
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <pubDate>Sun, 04 Dec 2022 13:43:35 +0000</pubDate>
