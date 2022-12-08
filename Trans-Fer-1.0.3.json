@@ -1,6 +1,6 @@
 {
-  "edSignature" : "DqOeZidycuJLsvAGxcMW6D7wWPVcMayl4U1yWkH3HEnwk9x1svFZXK\/mwI5neOA6g8z94y9nToI088WWQwb1Cg==",
-  "length" : "6054977",
+  "edSignature" : "aRVWdeCf64B30M4ltn9BYYr9wAIERRx3IRt3rV57GwxHqdfeHqxdeGoIUAFVjuajKQLv9YpyHme7mbT\/ddN5Bw==",
+  "length" : "5844387",
   "bugfixes" : [
 
   ],
@@ -13,6 +13,6 @@
   "changes" : [
     "L'archive .dmg contient maintenant l'application, et non plus unn package d'installation"
   ],
-  "date" : "2022-12-08T15:25:31Z",
+  "date" : "2022-12-08T15:35:52Z",
   "osmin" : "10.15"
 }
