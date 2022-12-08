@@ -7,9 +7,9 @@
         <item>
             <title>Version 1.0.3</title>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <pubDate>Thu, 08 Dec 2022 15:15:43 +0000</pubDate>
+            <pubDate>Thu, 08 Dec 2022 15:25:31 +0000</pubDate>
             <sparkle:releaseNotesLink>https://pierremolinaro.github.io/trans-fer-distribution/release-notes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/Trans-Fer-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="AAqcPUbLktx4A1Tdq74ibybkY2/f3Rc2MUrpGZ0l45qn4sqg5GEhGk384qOOEHEnoJoyrjkEsEaFgna8IsjECA==" sparkle:version="1.0.3" length="6056557" sparkle:installationType="application"></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/Trans-Fer-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="DqOeZidycuJLsvAGxcMW6D7wWPVcMayl4U1yWkH3HEnwk9x1svFZXK/mwI5neOA6g8z94y9nToI088WWQwb1Cg==" sparkle:version="1.0.3" length="6054977" sparkle:installationType="application"></enclosure>
             <description><![CDATA[<p>
               Version minimum macOS : 10.15<br/>
               <ul>
