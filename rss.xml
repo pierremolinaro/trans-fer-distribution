@@ -7,13 +7,13 @@
         <item>
             <title>Version 1.0.3</title>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <pubDate>Thu, 08 Dec 2022 15:35:52 +0000</pubDate>
+            <pubDate>Thu, 08 Dec 2022 15:51:28 +0000</pubDate>
             <sparkle:releaseNotesLink>https://pierremolinaro.github.io/trans-fer-distribution/release-notes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/Trans-Fer-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="aRVWdeCf64B30M4ltn9BYYr9wAIERRx3IRt3rV57GwxHqdfeHqxdeGoIUAFVjuajKQLv9YpyHme7mbT/ddN5Bw==" sparkle:version="1.0.3" length="5844387" sparkle:installationType="application"></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/Trans-Fer-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="OkBzceTvR4M9b5jpzhcCX8rwE2F97SmNKYUNMiXgVKBpVJMdK6Ckf3mwdptyHs2xeUQ6h7RHIv0TcqKQLrt7Cw==" sparkle:version="1.0.3" length="5845251" sparkle:installationType="application"></enclosure>
             <description><![CDATA[<p>
               Version minimum macOS : 10.15<br/>
               <ul>
-                <li><b>Change</b> L&apos;archive&nbsp;.dmg&nbsp;contient&nbsp;maintenant&nbsp;l&apos;application,&nbsp;et&nbsp;non&nbsp;plus&nbsp;unn&nbsp;package&nbsp;d&apos;installation</li>
+                <li><b>Change</b> L&apos;archive&nbsp;.dmg&nbsp;contient&nbsp;maintenant&nbsp;l&apos;application,&nbsp;et&nbsp;non&nbsp;plus&nbsp;un&nbsp;package&nbsp;d&apos;installation</li>
               </ul>
             </p>]]></description>
         </item>

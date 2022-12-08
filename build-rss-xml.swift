@@ -161,6 +161,7 @@ struct VersionDescriptor : Codable {
   var news = [String] ()
   var changes = [String] ()
   var date = ""
+  var contents = ""
   var osmin = ""
 }
 
@@ -235,12 +236,12 @@ for (major, minor, patch) in sortedReleases {
 //--- enclosure
   let enclosure = XMLElement (name: "enclosure")
   let url = "https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/Trans-Fer-\(version).dmg"
-  enclosure.addAttribute (XMLNode.attribute (withName: "url", stringValue:url) as! XMLNode)
-  enclosure.addAttribute (XMLNode.attribute (withName: "type", stringValue:"application/octet-stream") as! XMLNode)
-  enclosure.addAttribute (XMLNode.attribute (withName: "sparkle:edSignature", stringValue:versionDescriptor.edSignature) as! XMLNode)
-  enclosure.addAttribute (XMLNode.attribute (withName: "sparkle:version", stringValue:version) as! XMLNode)
-  enclosure.addAttribute (XMLNode.attribute (withName: "length", stringValue:"\(dmgFileLength)") as! XMLNode)
-  enclosure.addAttribute (XMLNode.attribute (withName: "sparkle:installationType", stringValue:"package") as! XMLNode)
+  enclosure.addAttribute (XMLNode.attribute (withName: "url", stringValue: url) as! XMLNode)
+  enclosure.addAttribute (XMLNode.attribute (withName: "type", stringValue: "application/octet-stream") as! XMLNode)
+  enclosure.addAttribute (XMLNode.attribute (withName: "sparkle:edSignature", stringValue: versionDescriptor.edSignature) as! XMLNode)
+  enclosure.addAttribute (XMLNode.attribute (withName: "sparkle:version", stringValue: version) as! XMLNode)
+  enclosure.addAttribute (XMLNode.attribute (withName: "length", stringValue: "\(dmgFileLength)") as! XMLNode)
+  enclosure.addAttribute (XMLNode.attribute (withName: "sparkle:installationType", stringValue: versionDescriptor.contents) as! XMLNode)
   item.addChild (enclosure)
 //--- Description
   let description = XMLElement (name: "description")
