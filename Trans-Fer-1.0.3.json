@@ -1,6 +1,6 @@
 {
-  "edSignature" : "OkBzceTvR4M9b5jpzhcCX8rwE2F97SmNKYUNMiXgVKBpVJMdK6Ckf3mwdptyHs2xeUQ6h7RHIv0TcqKQLrt7Cw==",
-  "length" : "5845251",
+  "edSignature" : "\/Fvcy8HaivmndkGipxEoSQoVhJhwR8ng9BhXcivtiC7ymvBKNmuws25bY8im06ZudsvgB1DsQZ\/DCMiQfZelAg==",
+  "length" : "3151200",
   "bugfixes" : [
 
   ],
@@ -13,7 +13,7 @@
   "changes" : [
     "L'archive .dmg contient maintenant l'application, et non plus un package d'installation"
   ],
-  "date" : "2022-12-08T15:51:28Z",
+  "date" : "2022-12-11T13:54:56Z",
   "contents" : "application",
   "osmin" : "10.15"
 }
