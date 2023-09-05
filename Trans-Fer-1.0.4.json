@@ -1,0 +1,19 @@
+{
+  "edSignature" : "mJoiq6poGaZaRK1DlwCyec6o013fW29YIr5qsTM7sHpSjrox+I+ppi1mzXQOThEAPmG4qAUefmPYBZdlO5weAQ==",
+  "length" : "5595382",
+  "bugfixes" : [
+
+  ],
+  "news" : [
+
+  ],
+  "notes" : [
+
+  ],
+  "changes" : [
+    "Mise à jour avec un certificat non révoqué (?)"
+  ],
+  "date" : "2023-09-05T08:39:31Z",
+  "contents" : "application",
+  "osmin" : "10.15"
+}
