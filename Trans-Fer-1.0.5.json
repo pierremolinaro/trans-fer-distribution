@@ -1,0 +1,19 @@
+{
+  "changes" : [
+    "Mise à jour pour Sonoma (OSX 14) et Xcode 15.3 beta1"
+  ],
+  "notes" : [
+
+  ],
+  "bugfixes" : [
+
+  ],
+  "news" : [
+
+  ],
+  "length" : "5612746",
+  "date" : "2024-01-28T09:53:35Z",
+  "contents" : "application",
+  "edSignature" : "BRgcGuJMcFj19m7F4oS+dsx+XdnVat819NHVyrXVwbM3ilBM\/PgHo6nfCfK8SXnw4EpfW6driErKkmLgjgHKAA==",
+  "osmin" : "10.15"
+}

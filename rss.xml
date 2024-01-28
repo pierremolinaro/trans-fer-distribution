@@ -5,6 +5,19 @@
         <description>Most recent changes with links to updates</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.5</title>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 28 Jan 2024 09:53:35 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://pierremolinaro.github.io/trans-fer-distribution/release-notes.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/pierremolinaro/trans-fer-distribution/master/Trans-Fer-1.0.5.dmg" type="application/octet-stream" sparkle:edSignature="BRgcGuJMcFj19m7F4oS+dsx+XdnVat819NHVyrXVwbM3ilBM/PgHo6nfCfK8SXnw4EpfW6driErKkmLgjgHKAA==" sparkle:version="1.0.5" length="5612746" sparkle:installationType="application"></enclosure>
+            <description><![CDATA[<p>
+              Version minimum macOS : 10.15<br/>
+              <ul>
+                <li><b>Change</b> Mise&nbsp;&agrave;&nbsp;jour&nbsp;pour&nbsp;Sonoma&nbsp;(OSX&nbsp;14)&nbsp;et&nbsp;Xcode&nbsp;15.3&nbsp;beta1</li>
+              </ul>
+            </p>]]></description>
+        </item>
+        <item>
             <title>Version 1.0.4</title>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <pubDate>Tue, 05 Sep 2023 08:39:31 +0000</pubDate>
