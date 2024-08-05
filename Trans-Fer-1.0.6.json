@@ -1,0 +1,19 @@
+{
+  "osmin" : "10.15",
+  "date" : "2024-08-05T17:07:19Z",
+  "news" : [
+    "Document transfertRP2040 : paramétrage de la plateforme"
+  ],
+  "edSignature" : "M4jwi+cWJBNBV+2ehqUXN0lU1c61oCB3xhGmSgqth59lePY6A2xYRJSwB\/3agUj+IuN93ETTqiQRWnG\/R6ekAQ==",
+  "notes" : [
+
+  ],
+  "length" : "5602044",
+  "changes" : [
+    "Document transfertRP2040 : utilisation de arduino-cli"
+  ],
+  "bugfixes" : [
+
+  ],
+  "contents" : "application"
+}
